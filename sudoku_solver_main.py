@@ -6,7 +6,7 @@ from settings import logger
 from tensorflow.keras.models import load_model
 
 images_extension = [".jpg", ".jpeg", ".png", ".bmp", ".ash"]
-video_extension = [".mp4", ".avi"]
+#video_extension = [".mp4", ".avi"] vidio not used
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 

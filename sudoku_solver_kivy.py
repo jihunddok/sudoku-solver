@@ -19,7 +19,7 @@ from src.main_single_img import process_single_img
 
 kivy.require('1.9.0')
 
-model_default_name = 'model/my_model.h5'
+model_default_name = 'model/cnn.hdf5'
 
 
 # noinspection PyArgumentList
