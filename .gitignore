@@ -1,0 +1,4 @@
+dataset_test/
+videos_result/
+model/
+*.log
